@@ -1,0 +1,9 @@
+E:\downloads\Ucaksavar\Ucaksavar\Ucaksavar\bin\Debug\Ucaksavar.exe.config
+E:\downloads\Ucaksavar\Ucaksavar\Ucaksavar\bin\Debug\Ucaksavar.exe
+E:\downloads\Ucaksavar\Ucaksavar\Ucaksavar\bin\Debug\Ucaksavar.pdb
+E:\downloads\Ucaksavar\Ucaksavar\Ucaksavar\obj\Debug\Ucaksavar.csprojResolveAssemblyReference.cache
+E:\downloads\Ucaksavar\Ucaksavar\Ucaksavar\obj\Debug\Ucaksavar.AnaForm.resources
+E:\downloads\Ucaksavar\Ucaksavar\Ucaksavar\obj\Debug\Ucaksavar.Properties.Resources.resources
+E:\downloads\Ucaksavar\Ucaksavar\Ucaksavar\obj\Debug\Ucaksavar.csproj.GenerateResource.Cache
+E:\downloads\Ucaksavar\Ucaksavar\Ucaksavar\obj\Debug\Ucaksavar.exe
+E:\downloads\Ucaksavar\Ucaksavar\Ucaksavar\obj\Debug\Ucaksavar.pdb
